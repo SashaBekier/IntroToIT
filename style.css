@@ -1,0 +1,79 @@
+.fr {
+	float:right;
+	padding:25px;
+	padding-top:15px;
+}
+
+p {
+	font-family:arial,sans-serif;
+}
+
+h1{
+	font-size:2.5em;
+	color:#ECF2CF;
+	font-family:"Garamond","Times New Roman", times, serif;
+	text-decoration:underline;
+	padding:1px;
+}
+
+h2{
+	font-size:2em;
+	color:#ECF2CF;
+	font-family:"Garamond","Times New Roman", times, serif;
+	text-decoration:underline;
+}
+h3{
+	font-size:1.5em;
+	color:#ECF2CF;
+	font-family:"Garamond","Times New Roman", times, serif;
+	text-decoration:underline;
+	
+}
+.clear{
+	clear:both;
+}
+body{
+	background:#C490D1;
+}
+#container{
+	background:#C490D1;
+}
+section{
+	background:#6C3A5C;
+	color:#FCF5ED;
+	margin:30px;
+	box-shadow: 0 0 5px 5px #6C3A5C;
+}
+.sectionTitle{
+	
+}
+.sectionContent{
+	
+}
+a{
+	color:#8CACF8;
+}
+table{
+	border:0px;
+	width:75%;
+	align:center;
+	font-family:arial,sans-serif;
+}
+figure{
+	float:left;
+}
+
+.ra{
+	text-align:right;
+	vertical-align:top;
+	white-space:nowrap;
+}
+
+article{
+	margin:25px;
+}
+
+figcaption{
+	text-align:center;
+	font-style:italic;
+}
